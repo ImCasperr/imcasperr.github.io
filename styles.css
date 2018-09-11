@@ -80,9 +80,6 @@ a:hover {
     color: #1abc9c;
     font-weight: bold;
 }
-.post {
-    background-color: #cccccc;
-}
 .post, .about {
     max-width: 800px;
     margin: 0 auto;
@@ -133,6 +130,7 @@ p {
 
 .post-context {
     font-size: 0.95em;
+    background-color: #cccccc;
 }
 
 .navbar-link {

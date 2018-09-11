@@ -2,7 +2,7 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:400,700);
 
 body {
-    color:#555;
+    color:#510505;
     margin: 0;
     font-family: 'Lato','Montserrat', sans-serif, arial;
 }
@@ -80,7 +80,9 @@ a:hover {
     color: #1abc9c;
     font-weight: bold;
 }
-
+.post {
+    background-color: #cccccc;
+}
 .post, .about {
     max-width: 800px;
     margin: 0 auto;
